@@ -1,6 +1,8 @@
 Slackadaisical
 ==============
 
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1432/badge)](https://bestpractices.coreinfrastructure.org/projects/1432)
+
 Introduction
 ------------
 

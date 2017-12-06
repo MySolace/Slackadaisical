@@ -1,6 +1,8 @@
 Slackadaisical
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MySolace/Slackadaisical.svg)](https://greenkeeper.io/)
+
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1432/badge)](https://bestpractices.coreinfrastructure.org/projects/1432)
 
 Introduction
